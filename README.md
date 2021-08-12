@@ -1,6 +1,6 @@
 # 🎨 CLEAN-CODE CONCEPT : PRESENTATION 📚
 
-**The Decorator pattern** is a [Structural Design Pattern](https://www.wikiwand.com/en/Structural_pattern).
+**The CLEAN CODE CONCEPT** was a  Live Presentation with the [Galsen Dev Community](https://discord.gg/UFmp3Ztzvv).
 The goal of this is to show you how a senior developer will think while programming and how they will structure their code to be as clean and well-written as possible. It was a live presentation in the **The Galsen Dev** Community [Galsen Dev](https://discord.gg/ERAUtvmY6H).
 **Please Read The Slide Before**.
 
